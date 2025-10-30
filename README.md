@@ -127,7 +127,3 @@ Identify undervalued and overvalued options.
 - Add 3D visualization for pricing and P&L surfaces.
 - Include support for multiple tickers in one analysis.
 - Extend functionality to analyze options strategies (e.g., spreads).
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
